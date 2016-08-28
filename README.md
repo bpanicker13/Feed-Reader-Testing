@@ -1,9 +1,16 @@
 ## Udacity Front-End Nanodegree
 # Feed-Reader Testing
 ____________________________
+Jasmine is a behavior-driven development framework for testing JavaScript.
+The thing I like the most is that it has clean syntax, and that makes writing tests easy.
 
-This project uses Jasmine to test the functionality of a feed-reader website. 
-
+```html
+describe("A suite", function() {
+  it("contains spec with an expectation", function() {
+    expect(true).toBe(true);
+  });
+});
+```
 
 Instructions
 ------------
