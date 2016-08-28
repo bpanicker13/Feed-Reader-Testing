@@ -14,11 +14,11 @@ describe("A suite", function() {
 
 Instructions
 ------------
-To view the portfolio website download all the files and open index.html in your browser.
+To view my testing app download all the files and open index.html in your browser. The key things I tested for are below.
 
 RSS Feeds:
-* Feeds are Defined
-* Feed URL is not empty
+* all Feeds are Defined
+* all Feed URL is not empty
 * Feed names are not empty
 
 The Menu:
@@ -31,5 +31,5 @@ Initial Entries:
 New Feed Selection:
 * Feed content changes when new feed is selected
 
-To view the portfolio site on github pages go to https://bpanicker13.github.io/testing
+To view the demo on github pages go to https://bpanicker13.github.io/testing
 

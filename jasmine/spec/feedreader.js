@@ -4,17 +4,17 @@
  * all of the tests that will be run against your application.
  */
 
-/* We're placing all of our tests within the $() function,
- * since some of these tests may require DOM elements. We want
+/* I'm placing all of the tests within the $() function,
+ * since some of these tests may require DOM elements. I want
  * to ensure they don't run until the DOM is ready.
  */
 $(function() {
-  /* This is our first test suite - a test suite contains
+  /* This is the first test suite - a test suite contains
    * a group of spec tests. This suite is all about the RSS
-   * feeds definitions, the allFeeds variable in our application.
+   * feeds definitions, the allFeeds variable in my application.
    */
   describe('RSS Feeds', function() {
-    /* This is our first test - it tests to make sure that the
+    /* This is the first test - it tests to make sure that the
      * allFeeds variable has been defined and that it is not
      * empty.
      */
@@ -54,9 +54,9 @@ $(function() {
   describe('Menu', function() {
     var menuHide = $('body').hasClass('menu-hidden');
     /* A test that ensures the menu element is
-     * hidden by default. You'll have to analyze the HTML and
-     * the CSS to determine how we're performing the
-     * hiding/showing of the menu element.
+     * hidden by default. Analyzed the HTML and
+     * the CSS to determine how performing the
+     * hiding/showing of the menu element will occur.
      */
     //when page loads check to see if body has .menu-hidden
     it('menu is hidden by default', function() {
