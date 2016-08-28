@@ -1,5 +1,5 @@
-Udacity Front-End Nanodegree
-Feed-Reader Testing
+## Udacity Front-End Nanodegree
+# Feed-Reader Testing
 ____________________________
 
 This project uses Jasmine to test the functionality of a feed-reader website. 
@@ -24,8 +24,5 @@ Initial Entries:
 New Feed Selection:
 * Feed content changes when new feed is selected
 
-To view the portfolio site on github pages go to http://bpanicker13.github.io/Udacity-Feed-Reader
+To view the portfolio site on github pages go to https://github.com/bpanicker13/Feed-Reader-Testing
 
-Resources
----------
-http://github.com/udacity/frontend-nanodegree-feedreader
