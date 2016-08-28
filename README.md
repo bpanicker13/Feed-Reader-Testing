@@ -24,5 +24,5 @@ Initial Entries:
 New Feed Selection:
 * Feed content changes when new feed is selected
 
-To view the portfolio site on github pages go to https://github.com/bpanicker13/testing
+To view the portfolio site on github pages go to https://bpanicker13.github.io/testing
 
